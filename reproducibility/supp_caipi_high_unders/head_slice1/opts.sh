@@ -1,0 +1,19 @@
+ZOOM=3
+DATA=data/unders
+WMAX=0.5
+CFLCOMMON="-z$ZOOM -u$WMAX -FZ -x2 -y1"
+NEWTON=8
+REDU=3
+
+NLINV_OPTS="-a240 -b40 -i${NEWTON} -R${REDU} -S"
+DNLINV_OPTS="--noise_sigma 1.0 --model_type unet --infer_num_samples 500 --lr 1e-3 --n_iter 12000 --img_shape 192 192 --network_params 32 4 --dropout_prob 0.0 --calib_region_shape 1 1 --seed 34433 --enable_cosine_scheduler --h5_type bart --noise_covariance_estimate --n_mps 1 --weight_decay 1e-6 --coil_init_max_iter 150 --image_init_max_iter 150 --coil_fov_oversampling 1.0 --coil_num_upsample 2 --l2_reg 0"
+DIP_OPTS="--noise_sigma 1.0 --model_type unet --infer_num_samples 500 --lr 1e-3 --n_iter 1500 --img_shape 192 192 --network_params 32 4 --dropout_prob 0.0 --calib_region_shape 1 1 --seed 34433 --enable_cosine_scheduler --h5_type bart --noise_covariance_estimate --n_mps 1 --weight_decay 1e-6 --coil_init_max_iter 150 --image_init_max_iter 150 --coil_fov_oversampling 1.0 --coil_num_upsample 2 --l2_reg 0 --maximum_likelihood"
+
+ACS=24
+# Undersampling values
+USs=(  #value  corresponding US factor
+        2	# 4
+        3	# 9
+        4	# 16
+	5 	# 25
+)

@@ -1,0 +1,16 @@
+*.npy
+**/mps.cfl
+**/mps.hdr
+**/rsos_multicoil_estimate.cfl
+**/rsos_multicoil_estimate.hdr
+**/x_est.cfl
+**/x_est.hdr
+**/.ipynb_checkpoints
+**/debug_parameter_search
+**/noise_covariance.txt
+**/noise_sigma.txt
+*.pt
+.idea/
+.idea/*
+**/.idea
+**/reco_*

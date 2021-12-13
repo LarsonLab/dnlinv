@@ -1,0 +1,8 @@
+# Dimensions
+1 320 320 15 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+fmac data/slice-full data/pat_4 data/unders_4 
+# Files
+ >data/unders_4 <data/pat_4 <data/slice-full
+# Creator
+BART v0.6.00

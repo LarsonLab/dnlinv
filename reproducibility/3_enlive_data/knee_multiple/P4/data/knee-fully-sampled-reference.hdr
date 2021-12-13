@@ -1,0 +1,8 @@
+# Dimensions
+320 256 
+# Command
+squeeze data/tmp_knee-fully-sampled-reference data/knee-fully-sampled-reference 
+# Files
+ >data/knee-fully-sampled-reference <data/tmp_knee-fully-sampled-reference
+# Creator
+BART v0.6.00

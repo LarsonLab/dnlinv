@@ -1,0 +1,27 @@
+AF = 2 
+Peak signal-to-noise ratio (dB) 
+ENLIVE = 24.70 +/- 2.60 
+DNLINV = 25.46 +/- 9.39 
+FastMRI_Unet = 28.11 +/- 1.77 
+Structural similarity index (a.u.) 
+ENLIVE = 0.4537 +/- 0.0906 
+DNLINV = 0.6017 +/- 0.2006 
+FastMRI_Unet = 0.8010 +/- 0.1053 
+AF = 3 
+Peak signal-to-noise ratio (dB) 
+ENLIVE = 20.35 +/- 4.10 
+DNLINV = 18.96 +/- 9.69 
+FastMRI_Unet = 24.10 +/- 1.32 
+Structural similarity index (a.u.) 
+ENLIVE = 0.2810 +/- 0.0839 
+DNLINV = 0.3219 +/- 0.1538 
+FastMRI_Unet = 0.7260 +/- 0.1123 
+AF = 4 
+Peak signal-to-noise ratio (dB) 
+ENLIVE = 20.44 +/- 2.55 
+DNLINV = 18.74 +/- 9.58 
+FastMRI_Unet = 23.97 +/- 1.35 
+Structural similarity index (a.u.) 
+ENLIVE = 0.2542 +/- 0.0721 
+DNLINV = 0.2837 +/- 0.1383 
+FastMRI_Unet = 0.7062 +/- 0.1178 

@@ -1,0 +1,27 @@
+AF = 2.3 
+Peak signal-to-noise ratio (dB) 
+ENLIVE = 36.07 +/- 2.39 
+DIP = 32.16 +/- 2.23 
+DNLINV = 35.65 +/- 2.03 
+Structural similarity index (a.u.) 
+ENLIVE = 0.8561 +/- 0.0460 
+DIP = 0.7362 +/- 0.0708 
+DNLINV = 0.8288 +/- 0.0249 
+AF = 3.3 
+Peak signal-to-noise ratio (dB) 
+ENLIVE = 32.56 +/- 2.19 
+DIP = 29.47 +/- 2.65 
+DNLINV = 35.51 +/- 2.14 
+Structural similarity index (a.u.) 
+ENLIVE = 0.7668 +/- 0.0662 
+DIP = 0.6516 +/- 0.0835 
+DNLINV = 0.8369 +/- 0.0406 
+AF = 5.3 
+Peak signal-to-noise ratio (dB) 
+ENLIVE = 26.30 +/- 1.54 
+DIP = 24.24 +/- 2.00 
+DNLINV = 33.00 +/- 2.00 
+Structural similarity index (a.u.) 
+ENLIVE = 0.5889 +/- 0.0642 
+DIP = 0.4353 +/- 0.0651 
+DNLINV = 0.7796 +/- 0.0644 

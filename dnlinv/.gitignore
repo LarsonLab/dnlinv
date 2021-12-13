@@ -1,0 +1,14 @@
+*.xml
+*.ipynb
+*.npy
+*.pyc
+*.cfl
+*.hdr
+.idea
+__pycache__
+*.cfl
+*.hdr
+*.ipynb
+.vscode
+*.npy
+.idea/*

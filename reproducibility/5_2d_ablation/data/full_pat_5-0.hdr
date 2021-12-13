@@ -1,0 +1,8 @@
+# Dimensions
+1 320 256 1 1 
+# Command
+poisson -Y320 -Z256 -y2.000 -z2.000 -v -V05 -s20869 data/tmp_pat_2.000 
+# Files
+ >data/tmp_pat_2.000
+# Creator
+BART v0.6.00

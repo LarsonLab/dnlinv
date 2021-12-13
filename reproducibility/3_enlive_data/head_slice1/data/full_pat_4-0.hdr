@@ -1,0 +1,8 @@
+# Dimensions
+1 192 192 1 1 
+# Command
+poisson -Y192 -Z192 -y1.205 -z1.205 -v -V10 -s20869 data/tmp_pat_1.205 
+# Files
+ >data/tmp_pat_1.205
+# Creator
+BART v0.6.00

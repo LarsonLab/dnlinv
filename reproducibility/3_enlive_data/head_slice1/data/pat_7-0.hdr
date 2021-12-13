@@ -1,0 +1,8 @@
+# Dimensions
+1 192 192 1 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+fmac data/tmp_pat_2.111 data/s_2.111 data/pat_2.111 
+# Files
+ >data/pat_2.111 <data/s_2.111 <data/tmp_pat_2.111
+# Creator
+BART v0.6.00

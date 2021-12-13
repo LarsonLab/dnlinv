@@ -1,0 +1,8 @@
+# Dimensions
+1 320 640 15 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+fmac data/slice-full-full-fov data/pat_full_fov_2 data/unders-full-fov_2 
+# Files
+ >data/unders-full-fov_2 <data/pat_full_fov_2 <data/slice-full-full-fov
+# Creator
+BART v0.6.00

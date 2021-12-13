@@ -1,0 +1,8 @@
+# Dimensions
+1 320 256 8 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+fmac data/full data/pat_2-0 data/unders_2-0 
+# Files
+ >data/unders_2-0 <data/pat_2-0 <data/full
+# Creator
+BART v0.6.00

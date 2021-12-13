@@ -1,0 +1,8 @@
+# Dimensions
+1 320 256 8 1 1 1 1 1 1 1 1 1 1 1 1 
+# Command
+scale 1e-8 data/tmp_full data/full 
+# Files
+ >data/full <data/tmp_full
+# Creator
+BART v0.4.04-65-gd4e6e2e

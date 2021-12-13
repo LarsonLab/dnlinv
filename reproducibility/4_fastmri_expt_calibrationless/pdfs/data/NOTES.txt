@@ -1,0 +1,1 @@
+Data is from fastMRI multi-channel challenge, validation dataset, 3T PD, file1000280.h5

@@ -1,6 +1,6 @@
 # Deep Non-linear Inversion Reproducibility Scripts
 
-This repository contains scripts for reproducing the experiments for the paper: ...
+This repository contains scripts for reproducing the experiments for the paper: Scan-specific Self-supervised Bayesian Deep Non-linear Inversion for Undersampled MRI Reconstruction by Andrew P. Leynes, Srikantan S. Nagarajan, and Peder E. Z. Larson
 
 The reconstruction code for deep non-linear inversion is inside the `dnlinv` directory.
 
